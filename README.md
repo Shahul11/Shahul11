@@ -23,6 +23,6 @@ Here are some ideas to get you started: -->
 
 
 ## Tools and Technologies:
-[![](https://img.icons8.com/color/72/java-coffee-cup-logo.png)]
+![](https://img.icons8.com/color/72/java-coffee-cup-logo.png)
 
 
