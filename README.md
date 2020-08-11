@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ...  https://scatteredpoints.com/
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...  Agnostic😇
-</br>
+
 ---
 
 ## About Me:
