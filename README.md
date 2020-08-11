@@ -24,6 +24,6 @@ Here are some ideas to get you started: -->
 
 ## Tools and Technologies:
 ![](https://img.icons8.com/color/72/java-coffee-cup-logo.png) ![](https://img.icons8.com/color/72/selenium-test-automation.png) ![](https://img.icons8.com/color/72/jenkins.png)![](https://img.icons8.com/color/72/python.png)</br>
-![](https://img.icons8.com/color/72/postgreesql.png)
+![](https://img.icons8.com/color/72/postgreesql.png) ![](https://img.icons8.com/color/96/000000/microsoft-sql-server.png)
 
 
