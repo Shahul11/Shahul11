@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...  [Website] (https://scatteredpoints.com/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...  <p><img src="https://i.pinimg.com/originals/4b/8d/c3/4b8dc3af2be6347ae3f0dc2ea10def0a.png" alt="foo" /></p>
+- ⚡ Fun fact: ...  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/237/woman_1f469.png" alt="foo" />
 
 
 
