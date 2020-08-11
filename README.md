@@ -27,3 +27,4 @@ Here are some ideas to get you started: -->
 ![](https://img.icons8.com/color/72/postgreesql.png) ![](https://img.icons8.com/color/96/000000/microsoft-sql-server.png)
 
 
+<img align="left" alt="Shahul's Github Stats" src="https://github-readme-stats.shahul11.vercel.app/api?username=shahul11&show_icons=true&hide_border=true" />
