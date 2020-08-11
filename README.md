@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 ## About Me:
 #### Always curious to learn cutting edge technology. A bit enthusiast for web development. Workout boost my adrenaline.
 
-<!-- [![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](https://www.linkedin.com/in/shahul-hameed/) -->
+
 
 
 
