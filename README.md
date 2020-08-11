@@ -12,5 +12,5 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...  [Website] (https://scatteredpoints.com/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... https://i.pinimg.com/originals/4b/8d/c3/4b8dc3af2be6347ae3f0dc2ea10def0a.png
 
