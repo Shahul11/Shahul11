@@ -14,5 +14,8 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...  Agnostic😇
 
+## About Me:
+#### Always curious to learn cutting edge technology. A bit enthusiast for web development. workout boost my adrenaline.
+
 
 
