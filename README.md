@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![](https://img.shields.io/badge/LinkedIn-Shahul%20Hameed-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ayushkumar25/)
+[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:ayush2608@gmail.com)
+
 <!--
 **Shahul11/Shahul11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
@@ -16,6 +19,8 @@ Here are some ideas to get you started: -->
 
 ## About Me:
 #### Always curious to learn cutting edge technology. A bit enthusiast for web development. workout boost my adrenaline.
+
+<!-- [![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](https://www.linkedin.com/in/shahul-hameed/) -->
 
 
 
