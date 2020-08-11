@@ -22,6 +22,7 @@ Here are some ideas to get you started: -->
 #### Always curious to learn cutting edge technology. A bit enthusiast for web development. Workout boost my adrenaline.
 
 
-
+## Tools and Technologies:
+[![](https://img.icons8.com/color/72/java-coffee-cup-logo.png)]
 
 
