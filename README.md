@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...  [Website] (https://scatteredpoints.com/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/237/woman_1f469.png" alt="foo" />
+- ⚡ Fun fact: ...  sapiosexual 👩😇
 
 
 
