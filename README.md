@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![](https://img.shields.io/badge/LinkedIn-Shahul%20Hameed-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/shahul-hameed/)
-[![][](https://img.shields.io/badge/Gmail-shahul.dell2010%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:shahul.dell2010@gmail.com)
+[![](https://img.shields.io/badge/Gmail-shahul.dell2010%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:shahul.dell2010@gmail.com)
 
 <!--
 **Shahul11/Shahul11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
