@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://img.shields.io/badge/LinkedIn-Shahul%20Hameed-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/shahul-hameed/) ![]
+[![](https://img.shields.io/badge/LinkedIn-Shahul%20Hameed-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/shahul-hameed/)
 [![]![](https://img.shields.io/badge/Gmail-shahul.dell2010%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:shahul.dell2010@gmail.com)
 
 <!--
