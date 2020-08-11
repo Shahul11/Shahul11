@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...UI
 - 🤔 I’m looking for help with ...JavaScript
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ... https://scatteredpoints.com/
+- 📫 How to reach me: ...
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...I am sapiosexual (https://i.pinimg.com/originals/4b/8d/c3/4b8dc3af2be6347ae3f0dc2ea10def0a.png)
+- ⚡ Fun fact: ...
 -->
