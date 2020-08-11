@@ -18,6 +18,7 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...  Agnostic😇
 </br>
 ---
+
 ## About Me:
 #### Always curious to learn cutting edge technology. A bit enthusiast for web development. Workout boost my adrenaline.
 
